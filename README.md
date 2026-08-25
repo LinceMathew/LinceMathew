@@ -1,6 +1,6 @@
 # Hey, I'm Lince 👋
 
-**Software Engineer** — planning, designing, building, deploying, scaling, marketing, and maintaining products end to end.
+**Product Engineer** — planning, designing, building, deploying, scaling, marketing, and maintaining products end to end.
 
 Contributed to open-source and enterprise-scale products. Currently adapting to AI-first workflows, working daily with AI agents, and deepening my grasp of systems thinking & design.
 
