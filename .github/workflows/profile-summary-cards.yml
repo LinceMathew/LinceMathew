@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          persist-credentials: false   # <-- prevents checkout's default token from overriding your PAT during push
+          token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}   # <-- checkout must use your PAT so it has push rights
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
