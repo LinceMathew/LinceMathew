@@ -60,7 +60,7 @@ Contributed to open-source and enterprise-scale products. Currently adapting to 
 
 ---
 
-### 🛠 Open Source Projects
+### 🛠 Open Source Contributions
 
 | Project | Description | Link |
 |---|---|---|
